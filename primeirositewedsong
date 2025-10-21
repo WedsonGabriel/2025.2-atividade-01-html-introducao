@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-BR"
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha página pessoal</title>
+</head>
+<body>
+    <h1> Wedson Gabriel </h1>
+    <h2> Aluno de Tecnologia em Análise e Desenvolvimento de Sistemas | IFRN </h2>
+
+    <div>
+        <h3>
+          Contatos profissionais
+        </h3>
+        <p>Linkedin: <a href="https://br.linkedin.com/in/wedson-gabriel-265807383">Linkedin</a></p>
+        <p>Github: <a href="https://github.com/WedsonGabriel">GitHUb</a></p>
+    </div>
+</body>
+</html>
