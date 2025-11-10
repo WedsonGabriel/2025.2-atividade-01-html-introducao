@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #1b1c1d;
+    padding:30px;
+    line-height: 1.6
+}
+
+.container {
+  width: 90%; 
+  max-width: 900px; 
+  margin: 0 auto; 
+  padding: 20px;
+}
+
+h1{
+    color: #E0E0E0;
+    font-size: 40px;
+    font-family: Montserrat;
+    text-align: center
+}
+
+h2{
+    color: #259dd5;
+    font-size: 20px;
+    font-family: Montserrat;;
+    text-align: center
+}
+
+.minha-foto{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: auto
+
+}
+
+h3{
+    color: #259dd5;
+    font-size: 20px;
+    font-family: Montserrat;
+    text-align: center
+}
+
+.Nome-GitHub{
+    color: #E0E0E0;
+    font-size: 15px;
+    font-family: Montserrat;
+    text-align: center
+}
+
+.Nome-LinkedIn{
+    color: #E0E0E0;
+    font-size: 15px;
+    font-family: Montserrat;
+    text-align: center
+}
+
+h4{
+    color: #259dd5;
+    font-size: 20px;
+    font-family: Montserrat;
+    text-align: left;
+}
+
+.div2 ul {
+  list-style: none; 
+  padding-left: 0;
+  font-family: Montserrat;
+  font-weight: 700;
+  color: #E0E0E0;
+}
+
+.div2 li {
+  margin-bottom: 25px;
+  padding-bottom: 15px; 
+  border-bottom: 1px solid #259dd5
+  
+}
+
+.div2 li p {
+  font-size: 14px;
+  color: #BBB; 
+  font-family: Montserrat;
+  font-weight: 500;
+  margin-top: 5px; 
+}
+
+h5{
+  color: #259dd5;
+    font-size: 20px;
+    font-family: Montserrat;
+    text-align: left;  
+}
+
+.div3 ul {
+  list-style: none; 
+  padding-left: 0;
+  font-family: Montserrat;
+  font-weight: 700;
+  color: #E0E0E0;
+}
+
+.div3 li {
+  margin-bottom: 0px;
+  padding-bottom: 0px;  
+}
+
+.div3 li p {
+  font-size: 14px;
+  color: #BBB; 
+  font-family: Montserrat;
+  font-weight: 500;
+  margin-top: 5px; 
+}
